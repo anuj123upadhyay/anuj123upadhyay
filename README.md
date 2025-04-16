@@ -65,6 +65,37 @@
   <a href="https://golang.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="80" />
   </a>
+
+  <!-- Node.js -->
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="80" />
+</a>
+
+<!-- TypeScript -->
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="80" />
+</a>
+
+<!-- JavaScript -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="80" />
+</a>
+
+<!-- React -->
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="80" />
+</a>
+
+<!-- React Native -->
+<a href="https://reactnative.dev/" target="_blank">
+  <img src="https://reactnative.dev/img/header_logo.svg" height="80" />
+</a>
+
+<!-- MongoDB -->
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="80" />
+</a>
+
   
   ### Monitoring
   
