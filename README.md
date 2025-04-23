@@ -9,7 +9,7 @@
  
 <p align="center" >
   <samp>
-    Hey, My name is <em>Anuj Kumar Upadhyay</em> and I am a DevOps⚙️ Engineer  and a Developer who is deeply committed to improving the efficiency and effectiveness of software development and deployment processes. My extensive knowledge of cloud computing, containerization, and automation enables me to drive innovation and deliver high-quality results. I remain dedicated to continuously expanding my skills by staying up-to-date with the latest DevOps tools and methodologies, and I'm always looking for new ways to optimize workflows and improve software delivery.🤖 :)
+    👋 Hi, I’m Anuj Kumar Upadhyay — a DevOps enthusiast and developer exploring tools like Docker, Kubernetes, GitHub Actions, and AWS. I’m passionate about building efficient systems, automating workflows, and learning something new every day. ⚙️🚀
   </samp>
   <br/>
 </p>
