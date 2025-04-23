@@ -162,7 +162,7 @@
 ## 📫 How to reach me? <img align="center" src="https://github.com/anuj123upadhyay/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/anuj1upadhyay/) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Hashnode](https://anuj1.hashnode.dev/) 🌐 <br>
+  ⦿ Follow me on [Hashnode](https://anuj1.hashnode.dev/) 🌐 <i>(950+ views)</i><br>
   ⦿ Shoot Me an [Email](mailto:anuju760@gmail.com) 💌 <br>
 <!--   ⦿ Add Me on [Discord](https://discord.com/channels/@me) <br>
 
